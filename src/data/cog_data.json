@@ -5,8 +5,8 @@
     "image_folder": "G:/测试",
     "output_folder": "G:/测试",
     "max_length": 2048,
-    "top_p": 1,
-    "top_k": 20,
-    "temperature": 1
+    "top_p": 0.8,
+    "top_k": 5,
+    "temperature": 0.9
   }
 ]
