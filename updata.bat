@@ -22,6 +22,6 @@ git submodule update
 if %errorlevel% equ 0 (
     echo 更新成功
 ) else (
-	echo 更新失败
+    echo 更新失败
 )
 pause
