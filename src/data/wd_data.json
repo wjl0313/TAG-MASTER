@@ -1,7 +1,7 @@
 [
   {
-    "image_folder": "G:/测试",
-    "output_folder": "G:/测试",
+    "image_folder": "G:/测试/1_girl",
+    "output_folder": "G:/测试/1_girl",
     "selected_model": "wd-vit-tagger-v3",
     "model_dir": "../../models/wd_tagger_model/wd-vit-tagger-v3",
     "general_thresh": 0.8,
