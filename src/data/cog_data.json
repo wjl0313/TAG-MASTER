@@ -2,10 +2,10 @@
   {
     "query": "Describe the image in great detail",
     "model_path": "../../models/cogagent-vqa-hf",
-    "image_folder": "G:/测试/1_girl",
-    "output_folder": "G:/测试/1_girl",
+    "image_folder": "G:/测试/打标素材/1_girl",
+    "output_folder": "G:/测试/打标素材/1_girl",
     "max_length": 2048,
-    "top_p": 0.8,
+    "top_p": 0.55,
     "top_k": 5,
     "temperature": 0.9
   }

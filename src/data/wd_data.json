@@ -1,10 +1,10 @@
 [
   {
-    "image_folder": "G:/测试/1_girl",
-    "output_folder": "G:/测试/1_girl",
-    "selected_model": "wd-vit-tagger-v3",
-    "model_dir": "../../models/wd_tagger_model/wd-vit-tagger-v3",
-    "general_thresh": 0.8,
+    "image_folder": "G:/测试/打标素材/1_girl",
+    "output_folder": "G:/测试/打标素材/1_girl",
+    "selected_model": "wd-swinv2-tagger-v3",
+    "model_dir": "../../models/wd_tagger_model/wd-swinv2-tagger-v3",
+    "general_thresh": 0.5,
     "replace_underscore": true
   }
 ]
