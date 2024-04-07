@@ -7,18 +7,9 @@ if %errorlevel% equ 0 (
     exit /b 1
 )
 
-npm list -g http-server > nul 2>&1
-if %errorlevel% equ 0 (
-    echo http-server 已安装。
-) else (
-    echo http-server 未安装，正在安装...
-    npm install -g http-server
-    if %errorlevel% neq 0 (
-        echo http-server 安装失败。
-        exit /b 1
-    )
-    echo http-server 安装成功。
-)
+
+npm install -g http-server
+
 
 echo 完成操作。
 echo 按任意键继续...
